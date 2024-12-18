@@ -1,4 +1,4 @@
-# Odin Recipes Project
+# Recipe Beshbarmak Project
 
 This project will demonstrate my ability to create a basic HTML site with proper organization, including the use of multiple HTML pages, images, and links.
 
